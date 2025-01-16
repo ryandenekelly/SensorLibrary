@@ -1,3 +1,6 @@
 [submodule "DisplayDevice"]
 	path = DisplayDevice
 	url = https://github.com/ryandenekelly/DisplayDevice.git
+[submodule "Menu"]
+	path = Menu
+	url = https://github.com/ryandenekelly/Menu.git

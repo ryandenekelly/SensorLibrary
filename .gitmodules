@@ -1,0 +1,3 @@
+[submodule "DisplayDevice"]
+	path = DisplayDevice
+	url = https://github.com/ryandenekelly/DisplayDevice.git
